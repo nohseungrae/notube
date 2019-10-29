@@ -1,0 +1,11 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "Cloning Youtube",
+  "main": "index.js",
+  "author": "nolec",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
